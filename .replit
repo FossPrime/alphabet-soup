@@ -1,5 +1,5 @@
-onBoot=["npm", ["i"]]
-run=["npm", ["run","dev"]]
+onBoot=["npm", "i"]
+run=["npm", "run", "dev"]
 hidden=[".config"]
 
 # hosting is currently hardcoded for this language
